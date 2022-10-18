@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Himesh Fernando</h1>
-<h3 align="center">A Law Student and a IIT Undergraduate from Sri Lanka</h3>
+<h1 align="left">Hi 👋, I'm Himesh Fernando</h1>
+<h3 align="left">A Law Student and a IIT Undergraduate from Sri Lanka</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2206859/screenshots/4945757/d2.gif"
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=himeshlk&label=Profile%20views&color=0e75b6&style=flat" alt="himeshlk" /> </p>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himeshlk" alt="himeshlk" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/fernandohimesh" target="blank"><img src="https://img.shields.io/twitter/follow/fernandohimesh?logo=twitter&style=for-the-badge" alt="fernandohimesh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/fernandohimesh" target="blank"><img src="https://img.shields.io/twitter/follow/fernandohimesh?logo=twitter&style=for-the-badge" alt="fernandohimesh" /></a> </p>
 
 - I’m currently studying in **Uva Wellassa University of Sri Lanka**
 
