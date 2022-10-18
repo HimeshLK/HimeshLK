@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himesh Fernando</h1>
 <h3 align="center">A Law Student and a IIT Undergraduate from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2206859/screenshots/4945757/d2.gif"
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2206859/screenshots/4945757/d2.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himeshlk&label=Profile%20views&color=0e75b6&style=flat" alt="himeshlk" /> </p>
 
