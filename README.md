@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Himesh Fernando! <img src="https://media1.giphy.com/media/pqStRjJyVEZDapW6EM/giphy.gif?cid=ecf05e47dsac0wckc3uq5f11y1o65g9wg119t28bxewn28vz&rid=giphy.gif&ct=g" width="35"></h1>
+<h1 align="center">Hi , I'm Himesh Fernando! <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/smiling-face-with-horns_1f608.png" width="35"></h1>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=28&duration=3000&pause=100&color=00E5E5&center=true&vCenter=true&width=435&lines=IIT+Undergraduate;Full+Stack+Developer;ML+%26+AI+Enthusiast;Problem+Solver" alt="Typing SVG" /></a></div>
 
