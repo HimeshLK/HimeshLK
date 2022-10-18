@@ -1,4 +1,6 @@
 
+<h1 align="center">Hi , I'm Himesh Fernando! <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/smiling-face-with-horns_1f608.png" width="35"></h1>
+
 
 - 🌱 I’m currently studying in **Uva Wellassa University of Sri Lanka**
 
