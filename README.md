@@ -2,7 +2,7 @@
 <h3 align="left">A Law Student and a IIT Undergraduate from Sri Lanka</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2206859/screenshots/4945757/d2.gif"
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=himeshlk&label=Profile%20views&color=0e75b6&style=flat" alt="himeshlk" /> </p>
+//<p align="left"> <img src="https://komarev.com/ghpvc/?username=himeshlk&label=Profile%20views&color=0e75b6&style=flat" alt="himeshlk" /> </p>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himeshlk" alt="himeshlk" /></a> </p>
 
