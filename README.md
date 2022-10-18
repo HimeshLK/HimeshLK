@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Himesh Fernando</h1>
 <h3 align="center">A Law Student and a IIT Undergraduate from Sri Lanka</h3>
 
+<img align="right" alt="Coding" width="400" src="https://packagecontrol.io/readmes/img/433eb5a0aa5f3090cb94376680919373164434dc.gif">
+
 - I’m currently studying in **Uva Wellassa University of Sri Lanka**
 
 - 🌱 I’m currently learning **Flutter, Laravel, and Basic UI/UX designs.**
