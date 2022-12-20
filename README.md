@@ -20,13 +20,11 @@
 
 - 👨🏻‍🎓 An `Undergraduate` at the Department of Computer Science & Informatics at <a href="https://uwu.ac.lk/">Uva Wellassa University</a> pursuing B.Sc. (Hons) in Industrial Information Technology. And A Law Student, Following LLBs at University of london.
 
-- 🌏 I'm living now in Gampaha, Sri Lanka.
-
-- 🤝 I’m available for freelancing.
+- 🌏 Living now in Gampaha, Sri Lanka.
 
 - 🌱 Currently going tru Flutter, Firebase, React, SQLite and Laravel.
 
-- 👨🏻‍🔬 I love learning about `new technologies`, `computer science` & `coding`.
+- 👨🏻‍🔬 Love learning about `new technologies`, `computer science` & `coding`.
 
 - 📫 Reach me **himehfernando.it@gmail.com**
 
@@ -38,20 +36,20 @@
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Github stats  </h2> 
 <p align="center">
   <a href="https://github.com/HimeshLK">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nipun-Thiwanka&langs_count=12&show_icons=true&locale=en&layout=compact&theme=algolia" alt="HimeshLK :: Top Langs" height="auto" width="full"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HimeshLK&langs_count=12&show_icons=true&locale=en&layout=compact&theme=algolia" alt="HimeshLK :: Top Langs" height="auto" width="full"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/HimeshLK">
-      <img alt="Nipun-Thiwanka's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nipun-Thiwanka&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="400px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nipun-Thiwanka&theme=algolia" alt="Nipun-Thiwanka" width="400px"/>
+      <img alt="HimeshLK's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nipun-Thiwanka&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimeshLK&theme=algolia" alt="HimeshLK" width="400px"/>
 </a>
 </p>
 <br/>
 
 <br/>
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> latest contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nipun-Thiwanka's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=HimeshLK&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="HimeshLK's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=HimeshLK&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 
 <!-- TOOLS AND LANGUAGE -->
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> My favorite tools  </h2> 
