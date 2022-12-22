@@ -24,7 +24,7 @@
 
 - 🌱 Currently going tru Flutter, Firebase, React, SQLite and Laravel.
 
-- 👨🏻‍🔬 Love learning about `new technologies`, `computer science` & `coding`.
+- 👨🏻‍🔬 passionate learning about `new technologies`, `computer science` & `coding`.
 
 - 📫 Reach me **himehfernando.it@gmail.com**
 
