@@ -35,6 +35,8 @@
 <!-- GITHUB STATS -->
 
   <a href="https://github.com/HimeshLK">
+    <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Github stats  </h2> 
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HimeshLK&langs_count=12&show_icons=true&locale=en&layout=compact&theme=algolia" alt="HimeshLK :: Top Langs" height="auto" width="full"/>
   </a>
 </p>
