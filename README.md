@@ -34,12 +34,12 @@
 
 <!-- GITHUB STATS -->
 
-<!--   <a href="https://github.com/HimeshLK"> -->
-    <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Github stats  </h2> 
+  <a href="https://github.com/HimeshLK">
+<!--     <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Github stats  </h2> 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HimeshLK&langs_count=12&show_icons=true&locale=en&layout=compact&theme=algolia" alt="HimeshLK :: Top Langs" height="auto" width="full"/>
   </a>
-</p>
+</p> -->
 <p align="center">
   <a href="https://github.com/HimeshLK">
       <img alt="HimeshLK's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nipun-Thiwanka&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="400px"/>
