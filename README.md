@@ -49,8 +49,8 @@
 <br/>
 
 <br/>
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> latest contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="HimeshLK's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=HimeshLK&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<!-- <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> latest contribution </h2>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="HimeshLK's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=HimeshLK&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a> -->
 
 <!-- TOOLS AND LANGUAGE -->
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> My favorite tools  </h2> 
