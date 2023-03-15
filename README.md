@@ -40,7 +40,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HimeshLK&langs_count=12&show_icons=true&locale=en&layout=compact&theme=algolia" alt="HimeshLK :: Top Langs" height="auto" width="full"/>
   </a>
 </p> -->
-<p align="center">
+<p align="left">
   <a href="https://github.com/HimeshLK">
       <img alt="HimeshLK's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nipun-Thiwanka&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="400px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimeshLK&theme=algolia" alt="HimeshLK" width="400px"/>
