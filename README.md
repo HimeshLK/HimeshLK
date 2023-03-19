@@ -29,7 +29,7 @@
 - 📫 Reach me **himehfernando.it@gmail.com**
 
 
-<p align="center" >/n /n /n</p>
+<p align="center" ><br><br><br></p>
 
 
 <!-- GITHUB STATS -->
