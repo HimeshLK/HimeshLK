@@ -19,7 +19,7 @@
 
 - 🌏 Living now in Gampaha, Sri Lanka.
 
-- 🌱 Currently going tru Flutter, Firebase, React, Python and Computer Vision.
+- 🌱 Currently going through Flutter, Firebase, React, Python and Computer Vision.
 
 - 👨🏻‍🔬 passionate learning about `new technologies`, `computer science` & `coding`.
 
