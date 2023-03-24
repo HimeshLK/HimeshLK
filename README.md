@@ -23,7 +23,7 @@
 
 - 👨🏻‍🔬 passionate learning about `new technologies`, `computer science` & `coding`.
 
-- 📫 Reach me **himehfernando.it@gmail.com**
+- 📫 Reach me through **himehfernando.it@gmail.com**
 
 
 <p align="center" ><br><br><br></p>
