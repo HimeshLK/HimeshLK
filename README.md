@@ -20,7 +20,7 @@
 - 🌏 Living now in Gampaha, Sri Lanka.
 
 - 🌱 Currently going through Mobile application Development (Flutter, Firebase, React native) Plus React, Python and Computer Vision.
-
+<br><br>
 - 👨🏻‍🔬 passionate learning about `new technologies`, `computer science` & `coding`.
 
 - 📫 Reach me via **himehfernando.it@gmail.com**
