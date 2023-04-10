@@ -17,9 +17,11 @@
 
 - 👨🏻‍🎓 An `Undergraduate` at the Department of Computer Science & Informatics at <a href="https://uwu.ac.lk/">Uva Wellassa University</a> pursuing B.Sc. (Hons) in Industrial Information Technology. And A Law Student, Following LLBs at University of london.
 
+- A Gavalier and A Toastmaster.  
+
 - 🌏 Living now in Gampaha, Sri Lanka.
 
-- 🌱 Currently going through Mobile application Development (Flutter, Firebase, React native) Plus React, Python and Computer Vision.
+- 🌱 Currently going through Mobile application Development (Flutter, Firebase, React native, JAVA) Plus React, Python and Computer Vision (Open CV).
 <br><br>
 - 👨🏻‍🔬 passionate learning about `new technologies`, `computer science` & `coding`.
 
