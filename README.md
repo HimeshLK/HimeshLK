@@ -23,7 +23,7 @@
 
 - 🌱 Currently going through Mobile application Development (Flutter, Firebase, React native, JAVA) Plus React, Python and Computer Vision (Open CV).
 <br><br>
-- 👨🏻‍🔬 passionate learning about `new technologies`, `computer science` & `coding`.
+- 👨🏻‍🔬 passionate learning about `Law`, `Mobile application development`, `Machine Learning`, `Climate change` & `Basically Computer Science`.
 
 - 📫 Reach me via **himehfernando.it@gmail.com**
 
