@@ -15,7 +15,7 @@
       <img align="right" top="100" bottom= "100" height="216" width="384" alt="GIF" src="https://github.com/HimeshLK/About-me/blob/main/giphy1.gif">
     </a>
 
-- 👨🏻‍🎓 An `Undergraduate` at the Department of Computer Science & Informatics at <a href="https://uwu.ac.lk/">Uva Wellassa University</a> pursuing B.Sc. (Hons) in Industrial Information Technology. And A Law Student, Following LLBs at University of london.
+- 👨🏻‍🎓 An `Undergraduate` at the Department of Computer Science & Informatics at <a href="https://uwu.ac.lk/">Uva Wellassa University</a> pursuing B.Sc. (Hons) in Industrial Information Technology. Further A Law Student, Following LLBs at University of london.
 
 - A Gavalier and A Toastmaster.  
 
