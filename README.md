@@ -21,7 +21,7 @@
 
 - 🌏 Living now in Gampaha, Sri Lanka.
 
-- 🌱 Currently going through Mobile application Development (Flutter, Firebase, React native, JAVA) Plus React, Python and Computer Vision (Open CV).
+- 🌱 Currently going through Mobile application Development (Flutter, Firebase, React native, JAVA) Plus React, Python, Computer Vision (Open CV) and UI/UX.
 <br><br>
 - 👨🏻‍🔬 passionate learning about `Law`, `Mobile application development`, `Machine Learning`, `Climate change` & `Basically Computer Science`.
 
