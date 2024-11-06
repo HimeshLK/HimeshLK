@@ -25,7 +25,7 @@
 
 - AI/ML --> Computer Vision
 
-- 
+- GIS 
 <br><br>
 - 👨🏻‍🔬 passionate learning about `Law`, `Mobile application development`, `AI and ML`, `Climate change` & `Basically Computer Science`.
 
