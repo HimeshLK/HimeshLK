@@ -2,7 +2,7 @@
 <!-- HEADING -->
 <h1 align="center">Hello! , This is Himesh Fernando <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
     <p align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Undergraduate+Of+Uva+Wellassa.;Always+learning+new+things.;Team+Player.;Freelancer.;Volunteer." alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=IIT+Graduate.;MSc.+DataScience+(Reading).;DataScience+Enthusiast.;Freelancer.;Volunteer." alt="Typing SVG" /></a>
     </p>
     <p align="center">
       <img src="https://komarev.com/ghpvc/?username=HimeshLK" alt="HimeshLK" /> 
