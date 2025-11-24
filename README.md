@@ -15,7 +15,7 @@
       <img align="right" top="100" bottom= "100" height="216" width="384" alt="GIF" src="https://github.com/HimeshLK/About-me/blob/main/giphy1.gif">
     </a>
 
-- 👨🏻‍🎓 A SE x AI/ML Engineer @ `NCINGA`. Postgraduate Student of MSc. DataScience -  Cardiff -Met.  Further A Law Student, Following LLBs at University of london.
+- 👨🏻‍🎓 A SE & AI/ML Engineer @ `NCINGA`. Postgraduate Student of MSc. DataScience -  Cardiff -Met.  Further A Law Student, Following LLBs at University of london.
 
 - A Gavalier and A Toastmaster.  
 
