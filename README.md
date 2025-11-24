@@ -15,13 +15,15 @@
       <img align="right" top="100" bottom= "100" height="216" width="384" alt="GIF" src="https://github.com/HimeshLK/About-me/blob/main/giphy1.gif">
     </a>
 
-- 👨🏻‍🎓 An `Undergraduate` at the Department of Computer Science & Informatics at <a href="https://uwu.ac.lk/">Uva Wellassa University</a> pursuing B.Sc. (Hons) in Industrial Information Technology. Further A Law Student, Following LLBs at University of london.
+- 👨🏻‍🎓 A SE x AI/ML Engineer @ `NCINGA`. Postgraduate Student of MSc. DataScience -  Cardiff -Met.  Further A Law Student, Following LLBs at University of london.
 
 - A Gavalier and A Toastmaster.  
 
 - 🌏 Living now in Gampaha, Sri Lanka.
 
 - 🌱 Currently going through Mobile application Development (Flutter, Firebase, React native, JAVA) Plus React, Python, Computer Vision (Open CV) and UI/UX design and development.
+
+- DataScience PostGraduate Student.
 
 - AI/ML --> Computer Vision
 
