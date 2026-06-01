@@ -32,8 +32,7 @@
 - 👨🏻‍🔬 passionate learning about `Law`, `Mobile application development`, `AI and ML`, `Climate change` & `Basically Computer Science`.
 
 - 📫 Reach me via **himehfernando.it@gmail.com**
-  
-- 🍃 A Software Engineering Intern @ NCINGA
+
 
 
 <p align="center" ><br><br><br></p>
